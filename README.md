@@ -3,6 +3,7 @@
 A fun game where you compare two football players' stats and guess if the second player’s value is higher or lower than the first.  
 Test your football knowledge and see how many correct guesses you can make!
 
+
 ## How to Play
 - Two football players are shown with a specific stat.
 - Guess if the second player’s stat is higher or lower.
