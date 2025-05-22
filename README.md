@@ -7,6 +7,7 @@ Test your football knowledge and see how many correct guesses you can make!
 - Two football players are shown with a specific stat.
 - Guess if the second player’s stat is higher or lower.
 - Keep guessing correctly to increase your score!
+  
 
 ## Technologies
 - Built with Flutter  
