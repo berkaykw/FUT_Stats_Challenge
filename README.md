@@ -1,16 +1,33 @@
-# fut_tahmin
+# FUT Stats Challenge
 
-A new Flutter project.
+A fun game where you compare two football players' stats and guess if the second player’s value is higher or lower than the first.  
+Test your football knowledge and see how many correct guesses you can make!
 
-## Getting Started
+## How to Play
+- Two football players are shown with a specific stat.
+- Guess if the second player’s stat is higher or lower.
+- Keep guessing correctly to increase your score!
 
-This project is a starting point for a Flutter application.
+## Technologies
+- Built with Flutter  
+- Uses Shared Preferences to save player data and high scores locally
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone the repo  
+2. Run `flutter pub get`  
+3. Start the app with `flutter run`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Screenshots
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/c6fa5299-245f-4203-b99e-f02279df9b4b" width="249" />
+  <img src="https://github.com/user-attachments/assets/4b31eb9b-f156-4a6b-b73d-d6f292d658b9" width="246" />
+  <img src="https://github.com/user-attachments/assets/ca1972a8-03d4-40ef-b440-1bb256a6979f" width="249" />
+  <img src="https://github.com/user-attachments/assets/340b6903-63bc-4bf5-b345-ca755a6da257" width="251" />
+</div>
+
